@@ -33,7 +33,7 @@
     "mocha": "3.2.0",
     "nyc": "9.0.1",
     "ts-node": "2.0.0",
-    "typescript": "2.0.10"
+    "typescript": "2.1.5"
   },
   "nyc": {
     "exclude": [
